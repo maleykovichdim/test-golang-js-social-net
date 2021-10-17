@@ -1,0 +1,57 @@
+# github.com/disintegration/imaging v1.6.2
+## explicit
+github.com/disintegration/imaging
+# github.com/eknkc/basex v1.0.0
+## explicit
+github.com/eknkc/basex
+# github.com/go-sql-driver/mysql v1.6.0
+## explicit; go 1.10
+github.com/go-sql-driver/mysql
+# github.com/hako/branca v0.0.0-20200807062402-6052ac720505
+## explicit; go 1.13
+github.com/hako/branca
+# github.com/heroku/x v0.0.34
+## explicit; go 1.12
+github.com/heroku/x/hmetrics
+github.com/heroku/x/hmetrics/onload
+# github.com/joho/godotenv v1.4.0
+## explicit; go 1.12
+github.com/joho/godotenv
+# github.com/matoous/go-nanoid v1.5.0
+## explicit; go 1.15
+github.com/matoous/go-nanoid
+# github.com/matryer/way v0.0.0-20180416093233-9632d0c407b0
+## explicit
+github.com/matryer/way
+# github.com/nats-io/nats-server/v2 v2.6.2
+## explicit; go 1.16
+# github.com/nats-io/nats.go v1.13.0
+## explicit; go 1.16
+github.com/nats-io/nats.go
+github.com/nats-io/nats.go/encoders/builtin
+github.com/nats-io/nats.go/util
+# github.com/nats-io/nkeys v0.3.0
+## explicit; go 1.16
+github.com/nats-io/nkeys
+# github.com/nats-io/nuid v1.0.1
+## explicit
+github.com/nats-io/nuid
+# golang.org/x/crypto v0.0.0-20210921155107-089bfa567519
+## explicit; go 1.17
+golang.org/x/crypto/bcrypt
+golang.org/x/crypto/blowfish
+golang.org/x/crypto/chacha20
+golang.org/x/crypto/chacha20poly1305
+golang.org/x/crypto/ed25519
+golang.org/x/crypto/ed25519/internal/edwards25519
+golang.org/x/crypto/internal/poly1305
+golang.org/x/crypto/internal/subtle
+# golang.org/x/image v0.0.0-20191009234506-e7c1f5e7dbb8
+## explicit; go 1.12
+golang.org/x/image/bmp
+golang.org/x/image/ccitt
+golang.org/x/image/tiff
+golang.org/x/image/tiff/lzw
+# golang.org/x/sys v0.0.0-20210615035016-665e8c7367d1
+## explicit; go 1.17
+golang.org/x/sys/cpu
